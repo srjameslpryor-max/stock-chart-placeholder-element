@@ -1,0 +1,58 @@
+<!-- Financial Dark Theme Palette -->
+<div class="box has-background-black-ter has-text-white p-5 my-5" style="border: 1px solid #2f3640; border-radius: 6px;">
+  <!-- Chart Header Info -->
+  <div class="level is-mobile mb-4">
+    <div class="level-left">
+      <div>
+        <h4 class="title is-5 has-text-white mb-1">KBW Bank Index ($BKX)</h4>
+        <p class="subtitle is-7 has-text-grey-light">Daily Candle Chart • 50-day Moving Average</p>
+      </div>
+    </div>
+    <div class="level-right">
+      <span class="tag is-danger has-text-weight-bold" style="background-color: #ff4d4d; color: #fff;">-10.2% Peak-to-Trough</span>
+    </div>
+  </div>
+
+  <!-- Simulated Visual Graph Area -->
+  <div class="is-relative has-background-black-bis" style="height: 280px; border: 1px solid #2f3640; border-radius: 4px; overflow: hidden;">
+    
+    <!-- Grid Lines -->
+    <div style="position: absolute; width: 100%; top: 25%; border-top: 1px dashed #23272e;"></div>
+    <div style="position: absolute; width: 100%; top: 50%; border-top: 1px dashed #23272e;"></div>
+    <div style="position: absolute; width: 100%; top: 75%; border-top: 1px dashed #23272e;"></div>
+    
+    <svg viewBox="0 0 600 280" style="width: 100%; height: 100%; position: absolute; top:0; left:0;">
+      <!-- 50-Day Moving Average Line (Amber/Orange resistance line) -->
+      <path d="M 0,40 Q 150,55 300,90 T 600,120" fill="none" stroke="#ffa502" stroke-width="2.5" stroke-dasharray="4" />
+      
+      <!-- Stock Price Action Path (Bright white/cyan price line for deep contrast) -->
+      <path d="M 0,50 L 40,30 L 90,75 L 130,60 L 180,140 L 220,110 L 290,210 L 330,185 L 390,230 L 450,170 L 510,130 L 540,115" fill="none" stroke="#00d2d3" stroke-width="2" />
+      
+      <!-- Visual Anchor Point - Current Resistance Level -->
+      <circle cx="540" cy="115" r="5" fill="#ffa502" />
+    </svg>
+
+    <!-- UI Overlay Callouts inside the Chart -->
+    <span class="tag is-dark is-small" style="position: absolute; top: 12%; left: 8%; background-color: #2f3640; color: #fff;">Feb Peak</span>
+    <span class="tag is-dark is-small" style="position: absolute; bottom: 12%; left: 62%; background-color: #2f3640; color: #fff;">March Low ($147)</span>
+    
+    <div class="has-text-centered p-1" style="position: absolute; top: 32%; right: 4%; background: rgba(250, 165, 2, 0.1); border: 1px solid #ffa502; border-radius: 4px; max-width: 130px;">
+      <p class="is-size-7 has-text-weight-semibold" style="color: #ffa502;">50-Day MA Resistance</p>
+    </div>
+  </div>
+
+  <!-- Momentum Indicator Sub-Panel -->
+  <div class="mt-4 pt-3" style="border-top: 1px solid #2f3640;">
+    <p class="is-size-7 uppercase has-text-grey-light has-text-weight-bold mb-2">Momentum Indicators (Neutral Zone)</p>
+    <div class="has-background-black-bis" style="height: 60px; border: 1px solid #2f3640; border-radius: 4px; position: relative;">
+      <!-- Oversold Boundary -->
+      <div style="position: absolute; width: 100%; bottom: 30%; border-top: 1px dotted #ff4d4d;"></div>
+      
+      <svg viewBox="0 0 600 60" style="width: 100%; height: 100%;">
+        <!-- Momentum Wave -->
+        <path d="M 0,20 L 130,25 L 290,52 L 390,55 L 450,40 L 540,30" fill="none" stroke="#10ac84" stroke-width="1.5" />
+      </svg>
+      <span class="is-size-7 has-text-grey-light" style="position: absolute; top: 2px; left: 5px;">Oversold Line</span>
+    </div>
+  </div>
+</div>

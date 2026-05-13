@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Market Minute: Follow the Banks</title>
+  <link rel="stylesheet" href="jsdelivr.net">
+  <link rel="stylesheet" href="cloudflare.com">
+</head>
+<body>
+
+  <section class="section">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-three-quarters-desktop is-two-thirds-widescreen">
+          
+          <!-- Article Header -->
+          <header class="mb-6">
+            <span class="tag is-primary is-light is-medium uppercase mb-3">Market Minute</span>
+            <h1 class="title is-1 is-size-2-mobile font-weight-bold">It’s Earnings Season Again – Let’s Follow the Banks</h1>
+            
+            <!-- Meta Data Row -->
+            <div class="level is-mobile pt-3 pb-3 my-4" style="border-top: 1px solid #f0f0f0; border-bottom: 1px solid #f0f0f0;">
+              <div class="level-left">
+                <div class="level-item">
+                  <div>
+                    <p class="subtitle is-6 mb-1">By <strong>Jeff Clark</strong></p>
+                    <p class="is-size-7 has-text-grey">Apr 8, 2026 • 7:30 AM EST</p>
+                  </div>
+                </div>
+              </div>
+              <div class="level-right">
+                <div class="level-item has-text-grey is-size-7">
+                  <span class="icon-text mr-3">
+                    <span class="icon"><i class="fa-regular fa-clock"></i></span>
+                    <span>4 min read</span>
+                  </span>
+                  <a href="#" class="has-text-grey">
+                    <span class="icon"><i class="fa-solid fa-print"></i></span>
+                    <span>Print</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </header>
+
+          <!-- Article Content -->
+          <div class="content is-medium">
+            <p class="is-size-4 has-text-weight-medium">Earnings season starts next week. So, once again, once again, it’s time to follow the banks.</p>
+            
+            <p>The action in bank stocks tends to lead the action in the broad stock market – especially during earnings season. When the banks are strong, the market rallies. When the banks are weak, so is the stock market.</p>
+            
+            <p>That was the case last quarter. Strength in the KBW Bank Index (BKX) in early January helped to keep the broad stock market propped up into February. Then, once the bank stocks rolled over and started to fall, the broad stock market followed along.</p>
+            
+            <p>Now, with the broad stock market in “correction mode,” the big bank influence is even more important. The major money center banks are scheduled to report earnings starting next week. The market’s reaction to those reports will set the tone for this earnings season.</p>
+
+            <div class="notification is-light is-info my-5">
+              <p class="mb-0"><strong>Key Insight:</strong> The banking sector has come under pressure in recent weeks. BKX trades about 10% lower than when it peaked in mid-February.</p>
+            </div>
+
+            <p>And, that action has some financial television talking heads wondering if the banks might come under even more selling pressure as they report earnings. On the flip side, the bullish percent index for the financial sector (BPFINA) generated a buy signal two weeks ago. And, that signal still has plenty of room to run higher.</p>
+            
+            <p>So, we have conflicting indicators. Let’s look at the chart of BKX and see if we can get a better read on its next potential move…</p>
+            
+            <p>The February-March decline was a straight shot lower – with BKX making a number of lower highs and lower lows. By mid-March, BKX was oversold enough to justify a bounce. And, that bounce has played out over the past three weeks.</p>
+
+            <!-- Marketing Promotion Box -->
+            <div class="box p-5 my-6" style="border: 2px dashed #00d1b2; background-color: #fafafa;">
+              <span class="tag is-warning uppercase has-text-weight-bold mb-3">Recommended Link</span>
+              <h3 class="title is-4 mt-0">Historic Market Disruption Opens Window to Turn $5,000 into $1 Million... in Just 12 Trades</h3>
+              <p class="is-size-6">A historic market disruption is creating what 40-year veteran Jeff Clark calls the most favorable conditions of his entire career — conditions he believes could turn a $5,000 stake into $1 million... in just 12 trades.</p>
+              <p class="is-size-6">On <strong>Thursday, May 14th at 10 am ET</strong> he’s walking you through how he plans to do this, step by step, and how you can get in for yourself.</p>
+              <div class="buttons mt-4">
+                <a href="#" class="button is-primary is-medium has-text-weight-bold">Click here to claim free virtual access</a>
+              </div>
+            </div>
+
+            <p>The problem with this chart, though, is that as BKX was hitting its low three weeks ago, all the momentum indicators at the bottom of the chart were hitting new lows as well. In other words, there wasn’t any “positive divergence” to suggest the final bottom was being formed. So, any oversold bounce would likely be temporary. And, BKX would need to dip back down at least one more time in order to establish a better bottom.</p>
+            
+            <p>BKX is now approaching the resistance of its 50-day moving average line. Meanwhile, the momentum indicators have pulled up out of oversold territory and are now neutral. There’s probably not enough energy left for BKX to power through its 50-day MA. So, this is a logical area to look for the bounce to end, and for BKX to turn lower and head back down towards its March low.</p>
+            
+            <p>If BKX makes a new low (below $147) there’s an excellent chance the momentum indicators will make higher lows. In that case, the chart will have the sort of “positive divergence” that is often an early warning sign of an impending rally.</p>
+            
+            <p>Let’s keep an eye on this chart for now. If BKX declines going into the big-bank earnings reports next week, it may set the stage for a rally following those reports. And, if the bank sector rallies, then the broad stock market will likely follow along.</p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
